@@ -1,0 +1,49 @@
+header {
+    margin: 10px;
+    font-family: sans-serif
+}
+
+.ml-1 {
+    display: inline-table;
+    width: 15%;
+    padding-left: 2px;
+}
+
+.ml-2 {
+    display: inline-table;
+    width: 60%;
+    border-left: 1px solid turquoise;
+    border-top: 1px solid turquoise
+}
+
+.ml-3 {
+    padding-left: 6px
+}
+
+.ml-4 {
+    padding-left: 6px
+}
+
+.ml-5 {
+    padding-left: 6px
+}
+
+.ml-6 {
+    display: inline-flex
+}
+
+a {
+    color: blue
+}
+
+A:hover {
+    color: red
+}
+
+input:hover {
+    background: lightpink
+}
+
+input {
+    display: flex
+}

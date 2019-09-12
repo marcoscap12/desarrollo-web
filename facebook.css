@@ -1,0 +1,42 @@
+.menu-bar {
+    display: flex;
+    border-bottom: 1px solid #133783;
+    background: #3b5998;
+    background-image: linear-gradient(#4e69a2, #3b5998 50%);
+}
+
+.facebook {
+    display: inline-block;
+    padding-left: 70px;
+    padding-top: 0px;
+    font-style: italic
+}
+
+.inicio {
+    padding-left: 520px;
+    padding-top: 20px;
+    color: white
+}
+
+.ml-0 {display: inline-table
+    ;width: 40%;
+margin-right: 15px}
+
+.ml-1 {
+    padding-left: 100px;
+    padding-top: 70px;
+}
+
+.ml-2 {
+    padding-left: 130px;
+    display: flex
+}
+
+.sing-up {
+    display: inline-table;
+    width: 39%;
+}
+
+a {
+    color: white
+}
